@@ -1,0 +1,202 @@
+\begin{thebibliography}{34}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Alloway(2008)}]{alloway2008micronutrients}
+Alloway BJ (2008) Micronutrients and crop production: An introduction. In:
+  Micronutrient deficiencies in global crop production, Springer, pp 1--39
+
+\bibitem[{Barber(1995)}]{barber1995soil}
+Barber SA (1995) Soil nutrient bioavailability: a mechanistic approach. John
+  Wiley \& Sons
+
+\bibitem[{Ben-Dor et~al(2009)Ben-Dor, Chabrillat, Dematt{\^e}, Taylor, Hill,
+  Whiting, and Sommer}]{ben2009using}
+Ben-Dor E, Chabrillat S, Dematt{\^e} J, Taylor G, Hill J, Whiting M, Sommer S
+  (2009) Using imaging spectroscopy to study soil properties. Remote Sensing of
+  Environment 113:S38--S55
+
+\bibitem[{Chen et~al(2015)Chen, Chen, Liao, Cao, Chen, Chen, He, Han, Peng, Lu,
+  Zhang, Tong, and Mills}]{Chen2014}
+Chen J, Chen J, Liao A, Cao X, Chen L, Chen X, He C, Han G, Peng S, Lu M, Zhang
+  W, Tong X, Mills J (2015) {Global land cover mapping at 30 m resolution: A
+  POK-based operational approach}. {ISPRS Journal of Photogrammetry and Remote
+  Sensing} 103:7--27, \doi{10.1016/j.isprsjprs.2014.09.002}, global Land Cover
+  Mapping and Monitoring
+
+\bibitem[{{Chen} and {Guestrin}(2016)}]{2016arXiv160302754C}
+{Chen} T, {Guestrin} C (2016) {XGBoost: A Scalable Tree Boosting System}. ArXiv
+  e-prints \eprint{1603.02754}
+
+\bibitem[{Conrad(2007)}]{Conrad2007PhD}
+Conrad O (2007) {SAGA --- Entwurf, Funktionsumfang und Anwendung eines Systems
+  f\"{u}r Automatisierte Geowissenschaftliche Analysen}. PhD thesis, University
+  of G\"{o}ttingen, G\"{o}ttingen
+
+\bibitem[{Danielson et~al(2011)Danielson, , and Gesch}]{Danielson2011GMTED}
+Danielson J, , Gesch D (2011) {Global multi-resolution terrain elevation data
+  2010 (GMTED2010)}. Open-File Report 2011-1073, U.S. Geological Survey
+
+\bibitem[{Drechsel et~al(2001)Drechsel, Kunze, and de~Vries}]{Drechsel2001}
+Drechsel P, Kunze D, de~Vries FP (2001) Soil nutrient depletion and population
+  growth in sub-saharan africa: A malthusian nexus? Population and Environment
+  22(4):411--423, \doi{10.1023/A:1006701806772}
+
+\bibitem[{Eckert and Watson(1996)}]{eckert1996integrating}
+Eckert D, Watson M (1996) Integrating the mehlich-3 extractant into existing
+  soil test interpretation schemes 1. Communications in Soil Science \& Plant
+  Analysis 27(5-8):1237--1249
+
+\bibitem[{Fan et~al(2013)Fan, Li, and Miguez-Macho}]{fan2013global}
+Fan Y, Li H, Miguez-Macho G (2013) Global patterns of groundwater table depth.
+  Science 339(6122):940--943
+
+\bibitem[{Feingersh and Dor(2016)}]{feingersh2015shalom}
+Feingersh T, Dor EB (2016) Shalom--a commercial hyperspectral space mission.
+  In: Qian S (ed) Optical Payloads for Space Missions, Wiley
+
+\bibitem[{Gasch et~al(2015)Gasch, Hengl, Gr\"{a}ler, Meyer, Magney, and
+  Brown}]{Gasch2015SPASTA}
+Gasch C, Hengl T, Gr\"{a}ler B, Meyer H, Magney T, Brown D (2015)
+  {Spatio-temporal interpolation of soil water, temperature, and electrical
+  conductivity in 3D+T: The Cook Agronomy Farm data set}. Spatial Statistics
+  14(Part A):70--90, \doi{10.1016/j.spasta.2015.04.001}
+
+\bibitem[{Giri et~al(2011)Giri, Ochieng, Tieszen, Zhu, Singh, Loveland, Masek,
+  and Duke}]{giri2011status}
+Giri C, Ochieng E, Tieszen LL, Zhu Z, Singh A, Loveland T, Masek J, Duke N
+  (2011) Status and distribution of mangrove forests of the world using earth
+  observation satellite data. Global Ecology and Biogeography 20(1):154--159
+
+\bibitem[{Hartmann and Moosdorf(2012)}]{GGGE:GGGE2352}
+Hartmann J, Moosdorf N (2012) {The new global lithological map database GLiM: A
+  representation of rock properties at the Earth surface}. Geochemistry,
+  Geophysics, Geosystems 13(12):n/a--n/a, \doi{10.1029/2012GC004370}
+
+\bibitem[{Hengl et~al(2015)Hengl, Heuvelink, Kempen, Leenaars, Walsh, Shepherd,
+  Sila, MacMillan, Mendes~{de Jesus}, Tamene, and
+  Tondoh}]{Hengl2015AfSoilGrids250m}
+Hengl T, Heuvelink GB, Kempen B, Leenaars JG, Walsh MG, Shepherd KD, Sila A,
+  MacMillan RA, Mendes~{de Jesus} J, Tamene L, Tondoh JE (2015) {Mapping Soil
+  Properties of Africa at 250~m Resolution: Random Forests Significantly
+  Improve Current Predictions}. PLoS ONE 10(e0125814),
+  \doi{10.1371/journal.pone.0125814}
+
+\bibitem[{Hengl et~al(2016)Hengl, Mendes~{de Jesus}, Heuvelink,
+  Ruiperez~Gonzalez, Kilibarda, Blagoti\'{c}, Shangguan, Wright, Geng,
+  Bauer-Marschallinger, Guevara, Vargas, MacMillan, Batjes, Leenaars, Ribeiro,
+  Wheeler, Mantel, and Kempen}]{Hengl2016SoilGrids250}
+Hengl T, Mendes~{de Jesus} J, Heuvelink GB, Ruiperez~Gonzalez M, Kilibarda M,
+  Blagoti\'{c} A, Shangguan W, Wright MN, Geng X, Bauer-Marschallinger B,
+  Guevara MA, Vargas R, MacMillan RA, Batjes NH, Leenaars JG, Ribeiro E,
+  Wheeler I, Mantel S, Kempen B (2016) {SoilGrids250m: global gridded soil
+  information based on Machine Learning}. Earth System Science Data in
+  review(??), \doi{??}
+
+\bibitem[{Hijmans et~al(2005)Hijmans, Cameron, Parra, Jones, and
+  Jarvis}]{Hijmans2005IJC}
+Hijmans RJ, Cameron SE, Parra JL, Jones PG, Jarvis A (2005) Very high
+  resolution interpolated climate surfaces for global land areas. International
+  Journal of Climatology 25:1965--1978
+
+\bibitem[{Huffman and Bolvin(2009)}]{huffman2009gpcp}
+Huffman GJ, Bolvin DT (2009) {GPCP version 2 combined precipitation data set
+  documentation}, vol~1. Laboratory for Atmospheres, NASA Goddard Space Flight
+  Center and Science Systems and Applications
+
+\bibitem[{Kuhn(2008)}]{JSSv028i05}
+Kuhn M (2008) {Building Predictive Models in R Using the caret Package}.
+  Journal of Statistical Software 28(1):1--26, \doi{10.18637/jss.v028.i05},
+  \urlprefix\url{https://www.jstatsoft.org/index.php/jss/article/view/v028i05}
+
+\bibitem[{Lal(1987)}]{lal1987managing}
+Lal R (1987) Managing the soils of sub-saharan africa. Science
+  236(4805):1069--1076
+
+\bibitem[{McBratney et~al(2003)McBratney, Mendo\c{c}a~Santos, and
+  Minasny}]{McBratney2003Geoderma}
+McBratney AB, Mendo\c{c}a~Santos ML, Minasny B (2003) {On digital soil
+  mapping}. Geoderma 117(1-2):3--52
+
+\bibitem[{Minty et~al(2009)Minty, Franklin, Milligan, Richardson, and
+  Wilford}]{minty2009radiometric}
+Minty B, Franklin R, Milligan P, Richardson M, Wilford J (2009) The radiometric
+  map of australia*. Exploration Geophysics 40(4):325--333
+
+\bibitem[{Mira et~al(2015)Mira, Weiss, Baret, Courault, Hagolle,
+  Gallego-Elvira, and Olioso}]{mira2015modis}
+Mira M, Weiss M, Baret F, Courault D, Hagolle O, Gallego-Elvira B, Olioso A
+  (2015) The modis (collection v006) brdf/albedo product mcd43d: temporal
+  course evaluated over agricultural landscape. Remote Sensing of Environment
+  170:216--228
+
+\bibitem[{Roy et~al(2006)Roy, Finck, Blair, and Tandon}]{roy2006plant}
+Roy R, Finck A, Blair G, Tandon H (2006) {Plant nutrition for food security: A
+  guide for integrated nutrient management}, Fertilizer and Plant Nutrition
+  Bulletin, vol~16. FAO
+
+\bibitem[{Savtchenko et~al(2004)Savtchenko, Ouzounov, Ahmad, Acker, Leptoukh,
+  Koziana, and Nickless}]{Savtchenko2004ASR}
+Savtchenko A, Ouzounov D, Ahmad S, Acker J, Leptoukh G, Koziana J, Nickless D
+  (2004) {Terra and Aqua MODIS products available from NASA GES DAAC}. Advances
+  in Space Research 34(4):710--714, \doi{10.1016/j.asr.2004.03.012}
+
+\bibitem[{Sayre et~al(2014)Sayre, Dangermond, Frye, Vaughan, Aniello, Breyer,
+  Cribbs, Hopkins, Nauman, Derrenbacher et~al}]{sayre2014new}
+Sayre R, Dangermond J, Frye C, Vaughan R, Aniello P, Breyer S, Cribbs D,
+  Hopkins D, Nauman R, Derrenbacher W, et~al (2014) A new map of global
+  ecological land units---an ecophysiographic stratification approach. USGS /
+  Association of American Geographers, Washington, DC
+
+\bibitem[{Shepherd et~al(2015)Shepherd, Shepherd, and Walsh}]{Shepherd201593}
+Shepherd KD, Shepherd G, Walsh MG (2015) Land health surveillance and response:
+  A framework for evidence-informed land management. Agricultural Systems
+  132:93--106, \doi{10.1016/j.agsy.2014.09.002}
+
+\bibitem[{Stevens et~al(2008)Stevens, van Wesemael, Bartholomeus, Rosillon,
+  Tychon, and Ben-Dor}]{stevens2008laboratory}
+Stevens A, van Wesemael B, Bartholomeus H, Rosillon D, Tychon B, Ben-Dor E
+  (2008) Laboratory, field and airborne spectroscopy for monitoring organic
+  carbon content in agricultural soils. Geoderma 144(1):395--404
+
+\bibitem[{Towett et~al(2015)Towett, Shepherd, Tondoh, Winowiecki, Lulseged,
+  Nyambura, Sila, V{\aa}gen, and Cadisch}]{towett2015total}
+Towett EK, Shepherd KD, Tondoh JE, Winowiecki LA, Lulseged T, Nyambura M, Sila
+  A, V{\aa}gen TG, Cadisch G (2015) Total elemental composition of soils in
+  sub-saharan africa and relationship with soil forming factors. Geoderma
+  Regional 5:157--168
+
+\bibitem[{V{\aa}gen et~al(2010)V{\aa}gen, Shepherd, Walsh, Winowiecki, Desta,
+  and Tondoh}]{Vagen2010AfSIS}
+V{\aa}gen T, Shepherd KD, Walsh MG, Winowiecki L, Desta LT, Tondoh JE (2010)
+  {AfSIS technical specifications: soil health surveillance}. Africa Soil
+  Information Service (AfSIS), World Agroforestry Centre, Nairobi, Kenya
+
+\bibitem[{V{\aa}gen et~al(2016)V{\aa}gen, Winowiecki, Tondoh, Desta, and
+  Gumbricht}]{vaagen2016mapping}
+V{\aa}gen TG, Winowiecki LA, Tondoh JE, Desta LT, Gumbricht T (2016) Mapping of
+  soil properties and land degradation risk in africa using modis reflectance.
+  Geoderma 263:216--225
+
+\bibitem[{Vanlauwe et~al(2014)Vanlauwe, Descheemaeker, Giller, Huising, Merckx,
+  Nziguheba, Wendt, and Zingore}]{vanlauwe2014integrated}
+Vanlauwe B, Descheemaeker K, Giller K, Huising J, Merckx R, Nziguheba G, Wendt
+  J, Zingore S (2014) Integrated soil fertility management in sub-saharan
+  africa: unravelling local adaptation. Soil Discuss 1:1239--1286
+
+\bibitem[{Wan(2006)}]{wan2006modis}
+Wan Z (2006) {MODIS land surface temperature products users' guide}. ICESS,
+  University of California
+
+\bibitem[{{Wright} and {Ziegler}(2016)}]{Wright2016}
+{Wright} MN, {Ziegler} A (2016) {ranger: A Fast Implementation of Random
+  Forests for High Dimensional Data in C++ and R}. Journal of Statistical
+  Software p~18
+
+\end{thebibliography}
